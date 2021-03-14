@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eba91625-fa8f-4059-896e-0547684d2f43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="untitled" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pkXpHaBFNB5BHaNoL7JXiAsYps" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ЦОСИИ/dsip/fourier-transform" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="Gradle.image_histogram">
+    <configuration name="image_histogram" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GrayScaleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="untitled.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GrayScaleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.image_histogram" />
+      <item itemvalue="Kotlin.GrayScaleKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.GrayScaleKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/Scala/example/example" value="PREVIEW" />
+        <entry key="D:/Учеба/Scala/startProject" value="PREVIEW" />
+        <entry key="D:/Учеба/Лабораторные КПП/testproject" value="PREVIEW" />
+        <entry key="D:/Учеба/Лабораторные КПП/untitled" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eba91625-fa8f-4059-896e-0547684d2f43" name="Default Changelist" comment="" />
+      <created>1615728242939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615728242939</updated>
+      <workItem from="1615728266823" duration="3458000" />
+      <workItem from="1615746558035" duration="2743000" />
+      <workItem from="1615750116168" duration="1495000" />
+      <workItem from="1615751650430" duration="859000" />
+      <workItem from="1615752540016" duration="2403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615751544109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615751544109" />
+    <state x="777" y="131" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1615750048137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="131" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615750048137" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1615752738366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615752738366" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1615752515057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615752515057" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1615752515057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615752515057" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1615752515056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615752515056" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1615752515057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615752515057" />
+    <state width="1877" height="212" key="GridCell.Tab.1.bottom" timestamp="1615750099614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615750099614" />
+    <state width="1877" height="212" key="GridCell.Tab.1.center" timestamp="1615750099614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615750099614" />
+    <state width="1877" height="212" key="GridCell.Tab.1.left" timestamp="1615750099614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615750099614" />
+    <state width="1877" height="212" key="GridCell.Tab.1.right" timestamp="1615750099614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615750099614" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1615750267717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615750267717" />
+    <state x="641" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1615752541831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="641" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615752541831" />
+    <state x="462" y="169" key="new project wizard" timestamp="1615751490733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="462" y="169" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1615751490733" />
+  </component>
+</project>
