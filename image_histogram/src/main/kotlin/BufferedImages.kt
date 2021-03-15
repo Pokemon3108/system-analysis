@@ -29,3 +29,11 @@ fun BufferedImage.histogram(): IntArray {
     return lumCount
 }
 
+
+fun BufferedImage.ahistogram(): List<Int> {
+     return (0 until width).flatMap { x->
+        (0 until height).map { y->
+            getRGB(x, y) and 0xFF
+        }
+    }
+}

@@ -10,25 +10,23 @@ repositories {
     maven { url "https://dl.bintray.com/mipt-npm/dataforge" }
     maven { url "https://dl.bintray.com/mipt-npm/kscience" }
     maven { url "https://dl.bintray.com/mipt-npm/dev" }
-    maven { url "https://jetbrains.bintray.com/lets-plot-maven" }
     maven { url "https://repo.kotlin.link" }
+    maven { url "https://jetbrains.bintray.com/lets-plot-maven" }
 }
 
 dependencies {
-//    api("kscience.kmath:kmath-core:0.2.0")
-    api("kscience.kmath:kmath-core:0.2.0-dev-5")
-    api("kscience.kmath:kmath-core-jvm:0.2.0-dev-5")
-    implementation("kscience.plotlykt:plotlykt-server:0.3.0")
-    compile 'org.testng:testng:7.3.0'
-    implementation "io.ktor:ktor-server-core:1.5.1"
-    implementation "io.ktor:ktor-server-netty:1.5.1"
-    implementation "ch.qos.logback:logback-classic:1.2.3"
-
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
     implementation "org.jetbrains.lets-plot:lets-plot-batik:2.0.0"
     api "org.jetbrains.lets-plot:lets-plot-common:1.2.0"
     api "org.jetbrains.lets-plot-kotlin:lets-plot-kotlin-api:1.2.0"
-
+//    api("kscience.kmath:kmath-core:0.2.0")
+    api("kscience.kmath:kmath-core:0.2.0-dev-5")
+    api("kscience.kmath:kmath-core-jvm:0.2.0-dev-5")
+    implementation("kscience.plotlykt:plotlykt-server:0.3.0")
+    testImplementation 'org.testng:testng:7.3.0'
+    implementation "io.ktor:ktor-server-core:1.5.1"
+    implementation "io.ktor:ktor-server-netty:1.5.1"
+    implementation "ch.qos.logback:logback-classic:1.2.3"
    implementation group: 'org.apache.commons', name: 'commons-math3', version: '3.6.1'
 
 
