@@ -11,8 +11,11 @@ fun main() {
     val imageCockatoo = ImageIO.read(File("cockatoo.jpg")) // using BBC BASIC image
     imageCockatoo.toGrayScale()
     grayFile = File("grayImageCockatoo.jpg")
-    ImageIO.write(imageKesha, "jpg", grayFile)
+    ImageIO.write(imageCockatoo, "jpg", grayFile)
     val histArr2=imageCockatoo.histogram()
+
+    drawHistogram(imageCockatoo.ahistogram())
+    drawHistogram(imageKesha.ahistogram())
 
     val averageKesha=Statistic.average(histArr1)
     val squareAverageKesha=Statistic.squareAverage(histArr1)
