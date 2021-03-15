@@ -11,9 +11,11 @@ repositories {
     maven { url "https://dl.bintray.com/mipt-npm/kscience" }
     maven { url "https://dl.bintray.com/mipt-npm/dev" }
     maven { url "https://jetbrains.bintray.com/lets-plot-maven" }
+    maven { url "https://repo.kotlin.link" }
 }
 
 dependencies {
+//    api("kscience.kmath:kmath-core:0.2.0")
     api("kscience.kmath:kmath-core:0.2.0-dev-5")
     api("kscience.kmath:kmath-core-jvm:0.2.0-dev-5")
     implementation("kscience.plotlykt:plotlykt-server:0.3.0")
@@ -26,6 +28,10 @@ dependencies {
     implementation "org.jetbrains.lets-plot:lets-plot-batik:2.0.0"
     api "org.jetbrains.lets-plot:lets-plot-common:1.2.0"
     api "org.jetbrains.lets-plot-kotlin:lets-plot-kotlin-api:1.2.0"
+
+   implementation group: 'org.apache.commons', name: 'commons-math3', version: '3.6.1'
+
+
 }
 
 tasks.test {

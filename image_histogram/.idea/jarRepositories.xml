@@ -61,5 +61,10 @@
       <option name="name" value="maven3" />
       <option name="url" value="https://dl.bintray.com/mipt-npm/dev" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven5" />
+      <option name="name" value="maven5" />
+      <option name="url" value="https://repo.kotlin.link" />
+    </remote-repository>
   </component>
 </project>
