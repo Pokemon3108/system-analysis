@@ -28,3 +28,4 @@ fun BufferedImage.histogram(): IntArray {
     }
     return lumCount
 }
+
